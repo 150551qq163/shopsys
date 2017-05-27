@@ -1,0 +1,4 @@
+1.django-admin startproject shopsys
+2.python manage.py migrate
+3.python manage.py runserver 0.0.0.0:8000
+4.localhost:8000
